@@ -1,0 +1,16 @@
+<log4j:event logger="com.sai.JdbcSelectApp" timestamp="1688533991904" level="INFO" thread="main">
+<log4j:message><![CDATA[Connection established: com.mysql.cj.jdbc.ConnectionImpl@6c7a164b]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.sai.JdbcSelectApp" timestamp="1688533991920" level="INFO" thread="main">
+<log4j:message><![CDATA[Statement object is created: com.mysql.cj.jdbc.StatementImpl@163370c2]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.sai.JdbcSelectApp" timestamp="1688533992014" level="INFO" thread="main">
+<log4j:message><![CDATA[ResultSet object is created:: com.mysql.cj.jdbc.result.ResultSetImpl@6736fa8d]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.sai.JdbcSelectApp" timestamp="1688533992031" level="INFO" thread="main">
+<log4j:message><![CDATA[Closing the connection...]]></log4j:message>
+</log4j:event>
+
